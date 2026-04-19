@@ -13,17 +13,17 @@ The analysis produces the following key charts to interpret the dataset:
 1. **Bar Chart: Average Monthly Salary by Department**
    - **Description**: Displays the mean monthly salary across various organizational units.
    - **Insight**: Helps identify which departments command the highest average pay.
-   - *Placeholder: ![Bar Chart](path_to_saved_bar_chart.png)*
+   - *Placeholder: ![Bar Chart](bar_chart.png)
 
 2. **Histogram: Distribution of Monthly Salary**
    - **Description**: A histogram paired with a Kernel Density Estimate (KDE) to show the frequency and "spread" of salary values.
    - **Insight**: Visualizes whether salaries are concentrated in a specific range or widely distributed.
-   - *Placeholder: ![Histogram](path_to_saved_histogram.png)*
+   - *Placeholder: ![Histogram](histogram.png)
 
 3. **Box Plot: Salary Distribution by Education Level**
    - **Description**: Compares salary ranges (minimum, maximum, and median) across different educational qualifications (e.g., Bachelor, Master, PhD).
    - **Insight**: Clearly demonstrates the variance and median salary growth associated with higher education levels.
-   - *Placeholder: ![Box Plot](path_to_saved_boxplot.png)*
+   - *Placeholder: ![Box Plot](boxplot.png)
 
 4. **Pie Chart: Employee Distribution by Department**
    - **Description**: A percentage-based breakdown of the workforce across departments.
@@ -43,4 +43,4 @@ The analysis produces the following key charts to interpret the dataset:
 ## 📖 How to Run
 1. **Clone the Repo**:
    ```bash
-   git clone [https://github.com/Gaurav28r/Employee_Salary_Analysis.git](https://github.com/Gaurav28r/Employee_Salary_Analysis.git)
+   git clone [https://github.com/Gaurav28r/Employee_Salary_Analysis.git](https://github.com//Employee_Salary_Analysis.git)
